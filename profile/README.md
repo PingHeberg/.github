@@ -40,10 +40,32 @@ On this GitHub you'll find our **open source projects**: game mods, ready-to-use
 
 ---
 
+## 👤 Le fondateur / The founder
+
+**Appo**, développeur autodidacte depuis 2007.
+
+PingHeberg est né de près de 20 ans passés à administrer des serveurs de jeux : Arma 2 Epoch, Arma 3 RP et Exile, Rust du temps de l'alpha, puis un serveur DayZ devenu n°1 en France avec la Team Genesis. Des années de crashs réglés en pleine nuit, de communautés à faire vivre et de leçons apprises à la dure, dont une surtout : **ce qu'on construit avec passion mérite d'être protégé**.
+
+PingHeberg, c'est l'hébergeur qu'on aurait voulu trouver à l'époque : stable, sécurisé, réactif, avec un vrai humain derrière chaque ticket.
+
+*Self-taught developer since 2007. PingHeberg was born from nearly 20 years of running game servers: Arma 2 Epoch, Arma 3 RP and Exile, Rust back in alpha, then a DayZ server that became #1 in France with Team Genesis. PingHeberg is the host we wished we had back then: stable, secure, responsive, with a real human behind every ticket.*
+
+| | |
+|---|---|
+| 💻 **Langages / Languages** | C# · C++ · PHP · Lua · SQL · HTML |
+| 🎮 **Spécialités / Focus** | FiveM QBCore, scripts sur mesure, mods de jeux |
+| 🛡️ **Créateur de / Creator of** | GenesisSecure |
+| 🧩 **Mods créés sur / Modded games** | 7 Days to Die · ARK · DayZ · Arma 2 & 3 · GTA V · Red Dead Redemption · Space Engineers · The Sims 4 · Last Feudal |
+| 🎧 **À côté / Also** | DJ de passion |
+
+👉 **[L'histoire complète / Full story](https://store.pingheberg.com/a-propos)**
+
+---
+
 ## 🛠️ Les créations d'Appo / Appo's creations
 
-Fondateur de PingHeberg, **Appo** développe aussi des mods, des serveurs et des jeux, hébergés chez PingHeberg.
-*PingHeberg's founder **Appo** also builds mods, servers and games, all hosted on PingHeberg.*
+En plus de PingHeberg, **Appo** développe des mods, des serveurs et des jeux, tous hébergés chez PingHeberg.
+*Besides PingHeberg, **Appo** builds mods, servers and games, all hosted on PingHeberg.*
 
 ### ⚔️ FactionWar · Minecraft
 Serveur PvP Factions narratif : 5 royaumes, cores à raider, économie, 5 métiers, quêtes, donjons et boss, crossplay Java et Bedrock, avec un mod client et des menus 100 % sur mesure.
