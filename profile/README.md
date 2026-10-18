@@ -40,13 +40,31 @@ On this GitHub you'll find our **open source projects**: game mods, ready-to-use
 
 ---
 
-## 🧩 Projets / Projects
+## 🛠️ Les créations d'Appo / Appo's creations
 
-| Projet | Jeu | Description |
+Fondateur de PingHeberg, **Appo** développe aussi des mods, des serveurs et des jeux, hébergés chez PingHeberg.
+*PingHeberg's founder **Appo** also builds mods, servers and games, all hosted on PingHeberg.*
+
+### ⚔️ FactionWar · Minecraft
+Serveur PvP Factions narratif : 5 royaumes, cores à raider, économie, 5 métiers, quêtes, donjons et boss, crossplay Java et Bedrock, avec un mod client et des menus 100 % sur mesure.
+*Story-driven PvP Factions server: 5 kingdoms, raidable cores, economy, 5 jobs, quests, dungeons and bosses, Java and Bedrock crossplay, with a custom client mod and fully custom menus.*
+👉 **[mc-factionwar.fr](https://mc-factionwar.fr)**
+
+### 🐾 Les Pixous · Twitch
+Un petit monde vivant en pixel art pour les streams : chaque viewer a son Pixou qui pêche, jardine, se bat en duel, joue au foot, parie sur des courses de chevaux… même quand personne n'écrit. Création 100 % maison, avec l'objectif d'une sortie sur Steam.
+*A living pixel-art world for streams: every viewer gets a Pixou that fishes, gardens, duels, plays football and bets on horse races, even when chat is quiet. Built from scratch, aiming for a Steam release.*
+👉 **[En live sur twitch.tv/hynatadj](https://www.twitch.tv/hynatadj)**
+
+### 🧟 Mods 7 Days to Die (V2.6)
+
+| Mod | Version | Description |
 |---|---|---|
-| **AppoFourtout** | 7 Days to Die | Coffre intelligent : craft automatique depuis les coffres proches · *Smart chest: crafts from nearby containers* · [NexusMods](https://www.nexusmods.com/7daystodie/mods/10600) |
-| **AppoRecycler** | 7 Days to Die | Démonteur automatique, récupère 50 % des matériaux · *Auto recycler, recovers 50% of materials* |
-| **AppoDanger** | 7 Days to Die | Indicateur de danger sur le HUD · *HUD danger indicator* |
+| **AppoFourtout** | 1.3 | Coffres intelligents : craft depuis les coffres proches + caisses de tri · *Smart chests: craft from nearby containers + sorting crates* |
+| **AppoRecycler** | 1.1.1 | Démonteur automatique, récupère 50 % des matériaux · *Auto recycler, recovers 50% of materials* |
+| **AppoDanger** | 1.0 | Indicateur SAFE / DANGER sur le HUD · *SAFE / DANGER HUD indicator* |
+| **AppoNPC** | en développement | PNJ qui marchent librement, avec menu marchand · *Free-roaming NPCs with trader menu* |
+
+👉 **[Tous les mods sur NexusMods](https://www.nexusmods.com/profile/Appo57)**
 
 *D'autres projets arrivent bientôt. More projects coming soon.*
 
