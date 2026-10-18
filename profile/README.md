@@ -44,11 +44,11 @@ On this GitHub you'll find our **open source projects**: game mods, ready-to-use
 
 **Appo**, développeur autodidacte depuis 2007.
 
-PingHeberg est né de près de 20 ans passés à administrer des serveurs de jeux : Arma 2 Epoch, Arma 3 RP et Exile, Rust du temps de l'alpha, puis un serveur DayZ devenu n°1 en France avec la Team Genesis. Des années de crashs réglés en pleine nuit, de communautés à faire vivre et de leçons apprises à la dure, dont une surtout : **ce qu'on construit avec passion mérite d'être protégé**.
+Lancé en 2026, PingHeberg est l'aboutissement de près de 20 ans passés à administrer des serveurs de jeux : Arma 2 Epoch, Arma 3 RP et Exile, Rust du temps de l'alpha, puis un serveur DayZ devenu n°1 en France avec la Team Genesis. Des années de crashs réglés en pleine nuit, de communautés à faire vivre et de leçons apprises à la dure, dont une surtout : **ce qu'on construit avec passion mérite d'être protégé**.
 
 PingHeberg, c'est l'hébergeur qu'on aurait voulu trouver à l'époque : stable, sécurisé, réactif, avec un vrai humain derrière chaque ticket.
 
-*Self-taught developer since 2007. PingHeberg was born from nearly 20 years of running game servers: Arma 2 Epoch, Arma 3 RP and Exile, Rust back in alpha, then a DayZ server that became #1 in France with Team Genesis. PingHeberg is the host we wished we had back then: stable, secure, responsive, with a real human behind every ticket.*
+*Self-taught developer since 2007. Launched in 2026, PingHeberg is the culmination of nearly 20 years of running game servers: Arma 2 Epoch, Arma 3 RP and Exile, Rust back in alpha, then a DayZ server that became #1 in France with Team Genesis. PingHeberg is the host we wished we had back then: stable, secure, responsive, with a real human behind every ticket.*
 
 | | |
 |---|---|
