@@ -55,7 +55,7 @@ PingHeberg, c'est l'hébergeur qu'on aurait voulu trouver à l'époque : stable,
 | 💻 **Langages / Languages** | C# · C++ · PHP · Lua · SQL · HTML |
 | 🖥️ **Expertise** | Administration de serveurs dédiés, VPS et serveurs de jeux · sécurisation · protection anti-DDoS |
 | 🎮 **Spécialités / Focus** | Développeur FiveM QBCore confirmé · plus de 400 scripts réalisés · création de serveurs compétitifs · mods de jeux |
-| 🛡️ **Fondateur de / Founder of** | Team Genesis · GenesisSecure |
+| 🛡️ **Fondateur de / Founder of** | Team Genesis · GenesisSecure · PingHeberg · Les Pixous |
 | 🧩 **Mods créés sur / Modded games** | 7 Days to Die · ARK · DayZ · Arma 2 & 3 · GTA V · Red Dead Redemption · Space Engineers · The Sims 4 · Last Feudal |
 | 🎧 **À côté / Also** | DJ de passion |
 
