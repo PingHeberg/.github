@@ -54,7 +54,7 @@ On this GitHub you'll find our **open source projects**: game mods, ready-to-use
 
 <div align="center">
 
-**[Store](https://store.pingheberg.com)** · **[Documentation](https://store.pingheberg.com/documentation)** · **[Statut](https://store.pingheberg.com/statut)** · **[Discord](https://discord.gg/NRxyeycYnQ)** · **[Trustpilot](https://fr.trustpilot.com/review/pingheberg.com)**
+**[Store](https://store.pingheberg.com)** · **[Documentation](https://store.pingheberg.com/documentation)** · **[Statut](https://store.pingheberg.com/statut)** · **[Discord](https://discord.gg/NRxyeycYnQ)** · **[Trustpilot](https://fr.trustpilot.com/review/store.pingheberg.com)**
 
 <sub>© PingHeberg · Hébergé en Europe · Données protégées (RGPD)</sub>
 
