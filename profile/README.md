@@ -44,17 +44,17 @@ On this GitHub you'll find our **open source projects**: game mods, ready-to-use
 
 **Appo**, développeur autodidacte depuis 2007.
 
-Lancé en 2026, PingHeberg est l'aboutissement de près de 20 ans à **créer, développer et administrer des serveurs de jeux compétitifs** : Arma 2 Epoch, Arma 3 RP et Exile, Rust du temps de l'alpha, puis un serveur DayZ devenu n°1 en France avec la Team Genesis. Des centaines de scripts et de plugins écrits à la main, des serveurs construits de A à Z, des crashs réglés en pleine nuit et des communautés de centaines de joueurs à faire vivre. Avec une leçon apprise à la dure : **ce qu'on construit avec passion mérite d'être protégé**.
+Lancé en 2026, PingHeberg est l'aboutissement de près de 20 ans à **créer, développer et administrer des serveurs de jeux compétitifs** : Arma 2 Epoch, Arma 3 RP et Exile, Rust du temps de l'alpha, puis avec la Team Genesis un serveur DayZ devenu **n°1 en France** et un serveur GTA RP sur FiveM classé **3e en France en 2017**. Plus de **400 scripts** et plugins écrits à la main, des serveurs construits de A à Z, des crashs réglés en pleine nuit et des communautés de centaines de joueurs à faire vivre. Avec une leçon apprise à la dure : **ce qu'on construit avec passion mérite d'être protégé**.
 
 PingHeberg, c'est l'hébergeur qu'on aurait voulu trouver à l'époque : stable, sécurisé, réactif, avec un vrai humain derrière chaque ticket.
 
-*Self-taught developer since 2007. Launched in 2026, PingHeberg is the culmination of nearly 20 years of building, developing and running competitive game servers: Arma 2 Epoch, Arma 3 RP and Exile, Rust back in alpha, then a DayZ server that became #1 in France with Team Genesis. Hundreds of hand-written scripts and plugins, servers built from scratch, and communities of hundreds of players. PingHeberg is the host we wished we had back then: stable, secure, responsive, with a real human behind every ticket.*
+*Self-taught developer since 2007. Launched in 2026, PingHeberg is the culmination of nearly 20 years of building, developing and running competitive game servers: Arma 2 Epoch, Arma 3 RP and Exile, Rust back in alpha, then with Team Genesis a DayZ server that reached #1 in France and a FiveM GTA RP server ranked 3rd in France in 2017. Over 400 hand-written scripts and plugins, servers built from scratch, and communities of hundreds of players. PingHeberg is the host we wished we had back then: stable, secure, responsive, with a real human behind every ticket.*
 
 | | |
 |---|---|
 | 💻 **Langages / Languages** | C# · C++ · PHP · Lua · SQL · HTML |
 | 🖥️ **Expertise** | Administration de serveurs (Linux, jeux, VPS) · *Server administration* |
-| 🎮 **Spécialités / Focus** | Création de serveurs compétitifs, FiveM QBCore, centaines de scripts et plugins sur mesure, mods de jeux |
+| 🎮 **Spécialités / Focus** | Développeur FiveM QBCore confirmé · plus de 400 scripts réalisés · création de serveurs compétitifs · mods de jeux |
 | 🛡️ **Créateur de / Creator of** | GenesisSecure |
 | 🧩 **Mods créés sur / Modded games** | 7 Days to Die · ARK · DayZ · Arma 2 & 3 · GTA V · Red Dead Redemption · Space Engineers · The Sims 4 · Last Feudal |
 | 🎧 **À côté / Also** | DJ de passion |
